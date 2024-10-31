@@ -1,0 +1,12 @@
+.search-container {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .search-container input {
+    flex-grow: 1;
+    padding: 5px;
+    margin-right: 5px;
+    border: 1px solid #ddd;
+  }
+  
